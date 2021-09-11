@@ -1,0 +1,10 @@
+{
+  "image": {
+    "type": "image-input",
+    "label": "Image"
+  },
+  "sound": {
+    "type": "sound-input",
+    "label": "Sound"
+  }
+}
